@@ -1,0 +1,22 @@
+{
+  "name": "node-js-demo",
+  "version": "1.0.0",
+  "description": "my node js demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesimhozman/intro-to-node.git"
+  },
+  "author": "Yesim Hozman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yesimhozman/intro-to-node/issues"
+  },
+  "homepage": "https://github.com/yesimhozman/intro-to-node#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
